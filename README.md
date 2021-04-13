@@ -1,0 +1,2 @@
+# Task-Executor-Library
+The primary goal of this project is to have teams implement the multithreaded synchronization needed to implement the TaskExecutor service.  The secondary goal of the project (but the most difficult) is to implement a Fixed-Length Blocking FIFO described in the textbook, and in class, using only Java’s Object as Monitors and synchronized blocks. Note Synchronized blocks are acceptable, even needed to implement the bounded buffer. Do not use Semaphore or Synchronized methods to implement the FIFO. 
